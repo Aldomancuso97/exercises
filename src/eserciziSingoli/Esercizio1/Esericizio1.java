@@ -1,3 +1,5 @@
+package eserciziSingoli.Esercizio1;
+
 public class Esericizio1 {
 
   /*+------------------+
